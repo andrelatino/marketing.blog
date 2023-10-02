@@ -3,12 +3,38 @@
     <title>Marketing Blog</title>
     <link href="https://andrelatino.github.io/marketing.blog/feed.xml" rel="self" />
     <link href="https://andrelatino.github.io/marketing.blog" />
-    <updated>2023-10-02T20:23:52+02:00</updated>
+    <updated>2023-10-02T21:41:56+02:00</updated>
     <author>
         <name>Andre</name>
     </author>
     <id>https://andrelatino.github.io/marketing.blog</id>
 
+    <entry>
+        <title>testing last post</title>
+        <author>
+            <name>Andre</name>
+        </author>
+        <link href="https://andrelatino.github.io/marketing.blog/testing-last-post.html"/>
+        <id>https://andrelatino.github.io/marketing.blog/testing-last-post.html</id>
+        <media:content url="https://andrelatino.github.io/marketing.blog/media/posts/3/350B.jpg" medium="image" />
+
+        <updated>2023-10-02T21:41:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://andrelatino.github.io/marketing.blog/media/posts/3/350B.jpg" alt="" />
+                    Hello this is a last etes to lorem ipsum dolor sit amt
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://andrelatino.github.io/marketing.blog/media/posts/3/350B.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Hello this is a last etes to lorem ipsum dolor sit amt
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello my friend</title>
         <author>
