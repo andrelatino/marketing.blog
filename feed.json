@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Marketing Blog",
+    "description": "",
+    "home_page_url": "https://andrelatino.github.io/marketing.blog",
+    "feed_url": "https://andrelatino.github.io/marketing.blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andre"
+    },
+    "items": [
+        {
+            "id": "https://andrelatino.github.io/marketing.blog/hello-my-friend.html",
+            "url": "https://andrelatino.github.io/marketing.blog/hello-my-friend.html",
+            "title": "Hello my friend",
+            "summary": "ici says hellop",
+            "content_html": "<p>ici says hellop</p>\n",
+            "author": {
+                "name": "Andre"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-02T20:23:52+02:00",
+            "date_modified": "2023-10-02T20:23:52+02:00"
+        },
+        {
+            "id": "https://andrelatino.github.io/marketing.blog/que-es-el-marketing-online.html",
+            "url": "https://andrelatino.github.io/marketing.blog/que-es-el-marketing-online.html",
+            "title": "Que es el marketing online",
+            "summary": "El marketing es esto.",
+            "content_html": "\n  <p>\n    El marketing es esto.\n  </p>",
+            "author": {
+                "name": "Andre"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-02T19:44:54+02:00",
+            "date_modified": "2023-10-02T19:44:54+02:00"
+        }
+    ]
+}

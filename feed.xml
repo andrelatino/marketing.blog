@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Marketing Blog</title>
+    <link href="https://andrelatino.github.io/marketing.blog/feed.xml" rel="self" />
+    <link href="https://andrelatino.github.io/marketing.blog" />
+    <updated>2023-10-02T20:23:52+02:00</updated>
+    <author>
+        <name>Andre</name>
+    </author>
+    <id>https://andrelatino.github.io/marketing.blog</id>
+
+    <entry>
+        <title>Hello my friend</title>
+        <author>
+            <name>Andre</name>
+        </author>
+        <link href="https://andrelatino.github.io/marketing.blog/hello-my-friend.html"/>
+        <id>https://andrelatino.github.io/marketing.blog/hello-my-friend.html</id>
+
+        <updated>2023-10-02T20:23:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ici says hellop
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ici says hellop</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Que es el marketing online</title>
+        <author>
+            <name>Andre</name>
+        </author>
+        <link href="https://andrelatino.github.io/marketing.blog/que-es-el-marketing-online.html"/>
+        <id>https://andrelatino.github.io/marketing.blog/que-es-el-marketing-online.html</id>
+
+        <updated>2023-10-02T19:44:54+02:00</updated>
+            <summary>
+                <![CDATA[
+                    El marketing es esto.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    El marketing es esto.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
